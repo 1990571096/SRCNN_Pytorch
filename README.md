@@ -24,7 +24,7 @@
 
   Download any one of 91-image and Set5 in the same Scale and then **move them under `./datasets` as `./datasets/91-image_x2.h5` and `./datasets/Set5_x2.h5`**
 
-### Step2: Train the model
+### Step2: 训练模型
 
     --train-file "path_to_train_file" \
     --eval-file "path_to_eval_file" \
